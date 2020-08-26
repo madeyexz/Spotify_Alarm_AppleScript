@@ -1,4 +1,4 @@
-# Launch and Play Spotify at Specific Time
+# Launch and Play Spotify at Specific Time (Make Spotify a Computer-based Alarm)
 ---
 **Please note that the methods discussed are only applicable to macOS users**.
 
