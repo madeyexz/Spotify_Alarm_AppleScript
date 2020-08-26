@@ -16,7 +16,7 @@ So I decided that there IS a way to make my Spotify plays automatically in the m
 There are a couple ways to do this.
 ![TouchBarScreenShot](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Screenshots/Touch%20Bar%202.png)
 
-### 1. Combing with BetterTouchTool to Make This (Most Convinent)
+## 1. Combing with BetterTouchTool to Make This (Most Convinent)
 
 ![What we see with Spotify opened](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Screenshots/Touch%20Bar%202.png)
 
@@ -31,14 +31,14 @@ BTT is the thing that makes the useless Touch Bar useful.
 7. Select "Morning Spotify Launcher"
 8. Done
 
-### 2. Using the Calendar
+## 2. Using the Calendar
 1. Open the Calendar
 2. Create an event and set the time
 3. click "alert" - "custom..."
 4. In the drop-down menu, select "Open file"
 5. Select ["Plays Spotify.scpt"](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Plays%20Spotify.scpt)
 
-### 3. Using the Quick Action
+## 3. Using the Quick Action
 1. Copy the codes of [this](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Plays%20Spotify.scpt)
 2. Open Automator
 3. Copy everything in the picture ![the picture](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Screenshots/Workflow.png)
