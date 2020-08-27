@@ -11,6 +11,13 @@ I understand that some soft piano background music might help waking gradually i
 
 So I decided that there IS a way to make my Spotify plays automatically in the morning and learned some AppleScript.
 
+## Features
+![TouchBarScreenShot](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Screenshots/Touch%20Bar%202.png)
+1. Looks nice (with BTT)
+2. Very convenient (with or without BTT)
+3. Can make Spotify an alarm (cool!)
+
+
 ## Instructions
 
 There are a couple ways to do this.
