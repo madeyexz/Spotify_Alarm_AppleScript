@@ -17,12 +17,9 @@ So I decided that there IS a way to make my Spotify plays automatically in the m
 2. Very convenient (with or without BTT)
 3. Can make Spotify an alarm (cool!)
 
-
 ## Instructions
 
 There are a couple ways to do this.
-
-![TouchBarScreenShot](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Screenshots/Touch%20Bar%202.png)
 
 ## 1. Combing with BetterTouchTool to Make This (The Most Convinent Method)
 
