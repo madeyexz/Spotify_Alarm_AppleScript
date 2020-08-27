@@ -36,7 +36,7 @@ BTT is the thing that makes the useless Touch Bar useful.
 2. Create an event and set the time
 3. click "alert" - "custom..."
 4. In the drop-down menu, select "Open file"
-5. Select ["Plays Spotify.scpt"](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Plays%20Spotify.scpt)
+5. Select "[Plays Spotify.scpt]"(https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Plays%20Spotify.scpt)
 
 ## 3. Using the Quick Action
 1. Copy the codes of [this](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Plays%20Spotify.scpt)
