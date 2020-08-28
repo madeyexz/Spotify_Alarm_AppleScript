@@ -28,7 +28,7 @@ There are a couple ways to do this.
 BTT is the thing that makes the useless Touch Bar useful.
 
 1. Install (and purchase if you want) BTT [here](https://folivora.ai/)
-2. Download the workflow file [here](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Morning%20Spotify%20Launcher.workflow.zip)
+2. Download the workflow file [here](hhttps://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Copy%20Path%20to%20Clipboard.workflow.zip)
 3. Open BTT, Click the "add" button on the buttom-left corner and select "Spotify"
 4. Click the "add" button on the buttom-middle and create a new trigger.
 5. Select "Touch Bar button" and then customize its appearance whatever you like
@@ -52,7 +52,7 @@ BTT is the thing that makes the useless Touch Bar useful.
 6. click "customize control strip..." on the same page and drag Quick Action into Touch Bar slot
 7. Done
 
-Or you can download my workflow [here](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Morning%20Spotify%20Launcher.workflow.zip)
+Or you can download my workflow [here](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Copy%20Path%20to%20Clipboard.workflow.zip)
 
 
 
