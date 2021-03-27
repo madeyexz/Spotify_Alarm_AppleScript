@@ -21,7 +21,7 @@ So I decided that there IS a way to make my Spotify plays automatically in the m
 
 There are a couple ways to do this.
 
-## 1. Combing with BetterTouchTool to Make This (The Most Convinent Method)
+## 1. Combining with BetterTouchTool to Make This (The Most Convinent Method)
 
 ![What we see with Spotify opened](https://github.com/madeyexz/Launch-and-Play-Spotify-at-Specific-Time/blob/master/Screenshots/Touch%20Bar%202.png)
 
